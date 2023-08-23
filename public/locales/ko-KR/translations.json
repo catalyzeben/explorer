@@ -20,7 +20,7 @@
   "explorer": "탐색기",
   "xrpl_org": "XRPL.org",
   "github": "GitHub",
-  "header.search.placeholder": "주소, 원장 또는 거래로 검색",
+  "header.search.placeholder": "주소, 원장 또는 트랜잭션으로 검색",
   "xrp": "XRP",
   "xrpl_explorer": "XRPL 네트워크 탐색기",
   "ledgers": "원장들",
