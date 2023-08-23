@@ -449,7 +449,7 @@
   "network_cannot_be_crawled": "이 네트워크는 크롤링이 불가능합니다",
   "check_crawl_existed": "운영자에게 연락하여 /crawl이 접근 가능하거나 vl 세트가 있는지 확인하세요",
   "peer_crawled_context": "더 자세한 정보는 https://xrpl.org/peer-crawler.html 를 참조하세요",
-  "xchainbridge": "XChain브리지",
+  "xchainbridge": "XChain 브리지",
   "language_en-US": "영어",
   "language_ja-JP": "일본어",
   "language_ko-KR": "한국어",
